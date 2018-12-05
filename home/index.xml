@@ -8,7 +8,59 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wanting Xu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About me I am currently a quantitative researcher focusing on modeling problems in finance. I graduated from the University of Chicago Statistics Ph.D. program, and worked with Prof. Mihai Anitescu and Prof. Michael L. Stein. My thesis concentrates on computational and statistical methods for the optimal estimation, control and modeling of dynamical systems.</description>
+    </item>
+    
+    <item>
+      <title>CAREER</title>
+      <link>/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/cv/</guid>
+      <description>Morgan Stanley, Quantitative Researcher, Aug 2017 - Present
+Argonne National Laboratory, Research Intern, Jun - Aug 2014, 2015</description>
+    </item>
+    
+    <item>
+      <title>PAPERS</title>
+      <link>/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/research/</guid>
+      <description>Xu, W., Stein, M. L. and Wisher, I. 2018+. Modeling and predicting chaotic circuit data. SIAM/ASA Journal on Uncertainty Quantification, to appear.
+Xu, W. and Anitescu, M. 2018. Exponentially accurate temporal decomposition for long-horizon linear-quadratic dynamic optimization.  SIAM Journal on Optimization, 28(3): 2541-2573.
+Xu, W. and Stein, M. L. 2017. Maximum likelihood estimation for a smooth Gaussian random field model.  SIAM/ASA Journal on Uncertainty Quantification, 5(1): 138-175.
+Xu, W.</description>
+    </item>
+    
+    <item>
+      <title>TALKS</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description>A limited-memory multiple shooting method for weakly constrained variational data assimilation. SIAM Conference on Uncertainty Quantification, Lausanne, Switzerland, April 2016.
+Limited-memory weakly constraint 4D-Var with checkpointing gradient. Summer Student Symposium, Argonne National Laboratory, Lemont, IL, August 2015.</description>
+    </item>
+    
+    <item>
+      <title>CONTACT</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description>Feel free to check out my LinkedIn page and reach out!</description>
+    </item>
     
   </channel>
 </rss>
